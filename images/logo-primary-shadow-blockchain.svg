@@ -1,0 +1,10 @@
+<svg width="680" height="160" viewBox="0 0 680 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="mayhem">
+  <g transform="translate(8 14) scale(1.32)">
+  <path d="M50 12 L81 45 L69 60 L50 88 L31 60 L19 45 Z" fill="#15002E"/>
+  <path d="M50 12 L19 45 L31 60 L50 45 Z" fill="#F5E6D0"/>
+  <path d="M50 45 L31 60 L50 88 L69 60 Z" fill="#F5E6D0"/>
+  <path d="M50 12 L81 45 L69 60 L50 88 L31 60 L19 45 Z" fill="none" stroke="#15002E" stroke-width="3.2" stroke-linejoin="round"/>
+  <path d="M50 12 L50 45 M19 45 L31 60 M81 45 L69 60 M31 60 L50 88 L69 60" fill="none" stroke="#15002E" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  <text x="156" y="112" fill="#15002E" font-family="'Plus Jakarta Sans', 'Arial Black', Arial, sans-serif" font-size="82" font-weight="800" letter-spacing="-1.5">mayhem</text>
+</svg>
