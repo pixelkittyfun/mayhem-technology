@@ -6,13 +6,15 @@ Solana-native culture site for **mayhem** — deployed as a static site on Verce
 
 ## Auto-deploy
 
-Every push to `main` triggers a GitHub Actions deploy to Vercel.
+**Option A — Vercel + GitHub (recommended)**
 
-Required repo secret:
+1. Open [Vercel project settings](https://vercel.com/heyrune-on-base-s-projects/mayhem-technology/settings/git)
+2. Connect repository `pixelkittyfun/mayhem-technology`
+3. Every push to `main` deploys automatically
 
-| Secret | How to get it |
-|--------|----------------|
-| `VERCEL_TOKEN` | [vercel.com/account/tokens](https://vercel.com/account/tokens) → Create Token |
+**Option B — GitHub Actions**
+
+Add repo secret `VERCEL_TOKEN` from [vercel.com/account/tokens](https://vercel.com/account/tokens), then push `.github/workflows/deploy.yml` from this repo.
 
 ## GoDaddy DNS (mayhem.technology)
 
